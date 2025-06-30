@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 1 year hands-on exeperience<br>📚 I'm currently learning Everything<br>🎯 Goals: collaborate on building web applications<br>🎲 Fun fact: I like netflix and chill</p>
+<p align="left">✨ 1 year hands-on exeperience<br>📚 I'm currently learning Everything<br>🎯 Goals: collaborate on building web applications<br>🎲 Fun fact: I like football and music</p>
 
 ###
 
