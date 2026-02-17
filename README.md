@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ 1 year hands-on exeperience<br>📚 I'm currently venturing into the world of AI and ML<br>🎯 Goals: collaborate on building web applications<br>🎲 Fun fact: I like football and music</p>
+<p align="left"><br>📚 I'm currently venturing into the world of AI and ML<br>🎯 Goals: collaborate on building web applications<br>🎲 Fun fact: I like football and music</p>
 
 ###
 
